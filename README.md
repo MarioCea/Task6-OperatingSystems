@@ -1,4 +1,4 @@
-# Task-6---Operating-Systems
+# Task6 - Operating-Systems
 Task 6 - Operating Systems - Politechnika Bialistok
 
 
